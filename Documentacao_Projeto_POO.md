@@ -865,8 +865,4 @@ O domínio destes conceitos representa um passo fundamental na formação de um 
 10. **ORACLE.** *Java Code Conventions*. Disponível em: https://www.oracle.com/java/technologies/javase/codeconventions-contents.html. Acesso em: setembro 2025.
 
 ---
-
-**Documento gerado em:** Setembro de 2025  
-**Versão:** 1.0  
-**Formato:** Markdown (conversível para PDF)  
 **Licença:** Uso Educacional
